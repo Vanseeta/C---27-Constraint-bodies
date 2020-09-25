@@ -1,2 +1,2 @@
-# C---27-Constraint-bodies
-created the chain between the log and bird
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
